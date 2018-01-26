@@ -1,0 +1,2 @@
+hello mac world
+this file is a image for weixin program
